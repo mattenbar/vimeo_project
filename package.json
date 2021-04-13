@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@u-wave/react-vimeo": "^0.9.4",
+    "babel-loader": "^8.2.2",
+    "google-tts-api": "^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-speech": "^1.0.2",
+    "react-vimeo": "^2.0.0",
+    "text-to-speech-js": "^1.1.10",
+    "vimeo": "^2.1.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
@@ -34,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "typescript": "^4.2.4"
   }
 }
